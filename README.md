@@ -1,4 +1,4 @@
-# hello, I’m **bomiga** / Bogdan Mihail Gagea
+# hello, I’m bomiga / Bogdan Mihail Gagea
 
 security nerd with a shell prompt, caffeine, and a stack of riffs.
 
@@ -7,13 +7,11 @@ $ whoami
 Senior Security Manager (Trust & Assurance) @ Zendesk
 ```
 
----
-
 ## ⚙️ loadout
 
-- go‑tos: **metasploit · nmap · snort · Wireshark · Burp Suite · nikto · sqlmap · John the Ripper**
-- programming: **Python**  · learning **Swift / SwiftUI**
-- certs: **CISSP · CCSK · eCPPT · AWS Certified AI Practitioner**
+- go‑tos: metasploit · nmap · snort · Wireshark · Burp Suite · nikto · sqlmap · John the Ripper
+- programming: Python  · learning Swift / SwiftUI
+- certs: CISSP · CCSK · eCPPT · AWS Certified AI Practitioner
 
 ## 🔍 hacking on
 
@@ -23,21 +21,20 @@ Senior Security Manager (Trust & Assurance) @ Zendesk
 
 ## 💬 talk to me about
 
-- Cybersecurity & GRC
-- Strategy and building trust with customers 
-- caffeine hacks
+- cybersecurity & GRC
+- strategy and building trust with customers 
+- strength training, malinois dogs and sci-fi novels
 
 ## 🗂 repos
 
-Hobby hacks, experiments, and half‑baked ideas.&#x20;
+- hobby hacks, experiments, and half‑baked ideas.&#x20;
 
----
+## 🎸 fun fact 🤘 
 
-### contact
-
-[linkedin.com/in/bomiga](https://www.linkedin.com/in/bomiga/)  •  `bomiga@protonmail.com`
-
-**Fun fact:** I carry an arsenal of metal / nu‑metal one‑liners that double as punchy security sound‑bites—and yes, I drop them in meetings.
+- I carry an arsenal of metal one‑liners that double as punchy security sound‑bites—and yes, I drop them in meetings.
 
 > “Sleep with one eye open.” — *Enter Sandman*, Metallica (1991)
 
+## 🔗 contact
+
+[linkedin.com/in/bomiga](https://www.linkedin.com/in/bomiga/)  •  `bomiga@protonmail.com`
