@@ -1,16 +1,43 @@
-## Hi there 👋
+# hello, I’m **bomiga** / Bogdan Mihail Gagea
 
-<!--
-**bomiga/bomiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+security nerd with a shell prompt, caffeine, and a stack of riffs.
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+Senior Security Manager (Trust & Assurance) @ Zendesk
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ loadout
+
+- go‑tos: **metasploit · nmap · snort · Wireshark · Burp Suite · nikto · sqlmap · John the Ripper**
+- programming: **Python**  · learning **Swift / SwiftUI**
+- certs: **CISSP · CCSK · eCPPT · AWS Certified AI Practitioner**
+
+## 🔍 hacking on
+
+- tiny Python scripts that automate boring work taks
+- Swift/SwiftUI apps for crazy random tools/ideas
+- occasionally still keeping up with TryHackMe & Hack The Box
+
+## 💬 talk to me about
+
+- Cybersecurity & GRC
+- Strategy and building trust with customers 
+- caffeine hacks
+
+## 🗂 repos
+
+Hobby hacks, experiments, and half‑baked ideas.&#x20;
+
+---
+
+### contact
+
+[linkedin.com/in/bomiga](https://www.linkedin.com/in/bomiga/)  •  `bomiga@protonmail.com`
+
+**Fun fact:** I carry an arsenal of metal / nu‑metal one‑liners that double as punchy security sound‑bites—and yes, I drop them in meetings.
+
+> “Sleep with one eye open.” — *Enter Sandman*, Metallica (1991)
+
