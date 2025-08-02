@@ -15,13 +15,14 @@ Senior Security Manager (Trust & Assurance) @ Zendesk
 
 ## 🔍 hacking on
 
-- tiny Python scripts that automate boring work taks
+- tiny Python scripts that automate boring work tasks
 - Swift/SwiftUI apps for crazy random tools/ideas
+- algorithm implementations (like my Luhn-based credit card generator)
 - occasionally still keeping up with TryHackMe & Hack The Box
 
 ## 💬 talk to me about
 
-- cybersecurity & GRC
+- cybersecurity & GRC (governance, risk & compliance)
 - strategy and building trust with customers 
 - strength training, malinois dogs and sci-fi novels
 
