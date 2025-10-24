@@ -1,6 +1,6 @@
 # hello, I’m bomiga / Bogdan Mihail Gagea
 
-security nerd with a shell prompt, caffeine, and a stack of riffs.
+security nerd with a shell prompt, caffeine, and a stack of riffs
 
 ```bash
 $ whoami
@@ -28,7 +28,7 @@ Senior Security Manager (Trust & Assurance) @ Zendesk
 
 ## 🗂 repos
 
-- hobby hacks, experiments, and half‑baked ideas.;
+- hobby hacks, experiments, and half‑baked ideas
 
 ## 🎸 fun fact 🤘 
 
