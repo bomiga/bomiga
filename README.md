@@ -10,15 +10,15 @@ Senior Security Manager (Trust & Assurance) @ Zendesk
 ## ⚙️ loadout
 
 - go‑tos: metasploit · nmap · snort · Wireshark · Burp Suite · nikto · sqlmap · John the Ripper
-- programming: Python  · learning Swift / SwiftUI
+- programming: Python · learning Swift / SwiftUI
 - certs: CISSP · CCSK · eCPPT · AWS Certified AI Practitioner
 
 ## 🔍 hacking on
 
-- tiny Python scripts that automate boring work tasks
+- tiny Python/Swift scripts that automate boring work tasks
 - Swift/SwiftUI apps for crazy random tools/ideas
 - algorithm implementations (like my Luhn-based credit card generator)
-- occasionally still keeping up with TryHackMe & Hack The Box
+- occasionally still keeping up with TryHackMe & Hack The Box & PicoCTF
 
 ## 💬 talk to me about
 
@@ -28,7 +28,7 @@ Senior Security Manager (Trust & Assurance) @ Zendesk
 
 ## 🗂 repos
 
-- hobby hacks, experiments, and half‑baked ideas.&#x20;
+- hobby hacks, experiments, and half‑baked ideas.;
 
 ## 🎸 fun fact 🤘 
 
